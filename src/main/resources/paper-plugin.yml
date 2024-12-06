@@ -1,0 +1,4 @@
+name: untitled1
+version: '1.0-SNAPSHOT'
+main: com.github.moony564.untitled1.Untitled1
+api-version: '1.21'
